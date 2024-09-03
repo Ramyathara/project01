@@ -9,11 +9,11 @@
   <url>http://maven.apache.org</url>
   <distributionManagement>
 	  <repository>
-		  <id>releases</id>
+		  <id>release</id>
 		  <url>http://34.229.99.249:8081/nexus/content/repositories/releases/</url>
 		  </repository>
 		  <snapshotRepository>
-			  <id>snapshots</id>
+			  <id>snapshot</id>
 			  <url>http://34.229.99.249:8081/nexus/content/repositories/snapshots/</url>
 		  </snapshotRepository>
 	  </distributionManagement>
